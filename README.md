@@ -1,6 +1,6 @@
 # PostAdvisory
 
-How to run this locally. (The easiet way)
+How to run this locally. (The easiest way)
  1. Download VS code
  2. Download the Live Server 
  3. Open the root folder in VS code. You should see this file structure:
